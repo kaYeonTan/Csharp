@@ -1,0 +1,7 @@
+C:\Users\수완\Documents\GitHub\Csharp\1003Chapter1\1003Chapter1\bin\Debug\1003Chapter1.exe.config
+C:\Users\수완\Documents\GitHub\Csharp\1003Chapter1\1003Chapter1\bin\Debug\1003Chapter1.exe
+C:\Users\수완\Documents\GitHub\Csharp\1003Chapter1\1003Chapter1\bin\Debug\1003Chapter1.pdb
+C:\Users\수완\Documents\GitHub\Csharp\1003Chapter1\1003Chapter1\obj\Debug\1003Chapter1.csproj.AssemblyReference.cache
+C:\Users\수완\Documents\GitHub\Csharp\1003Chapter1\1003Chapter1\obj\Debug\1003Chapter1.csproj.CoreCompileInputs.cache
+C:\Users\수완\Documents\GitHub\Csharp\1003Chapter1\1003Chapter1\obj\Debug\1003Chapter1.exe
+C:\Users\수완\Documents\GitHub\Csharp\1003Chapter1\1003Chapter1\obj\Debug\1003Chapter1.pdb
