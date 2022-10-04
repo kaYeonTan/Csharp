@@ -1,0 +1,14 @@
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\bin\Debug\netcoreapp3.1\1004.exe
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\bin\Debug\netcoreapp3.1\1004.deps.json
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\bin\Debug\netcoreapp3.1\1004.runtimeconfig.json
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\bin\Debug\netcoreapp3.1\1004.runtimeconfig.dev.json
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\bin\Debug\netcoreapp3.1\1004.dll
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\bin\Debug\netcoreapp3.1\1004.pdb
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\obj\Debug\netcoreapp3.1\1004.csproj.AssemblyReference.cache
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\obj\Debug\netcoreapp3.1\1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\obj\Debug\netcoreapp3.1\1004.AssemblyInfoInputs.cache
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\obj\Debug\netcoreapp3.1\1004.AssemblyInfo.cs
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\obj\Debug\netcoreapp3.1\1004.csproj.CoreCompileInputs.cache
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\obj\Debug\netcoreapp3.1\1004.dll
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\obj\Debug\netcoreapp3.1\1004.pdb
+C:\Users\수완\Documents\GitHub\Csharp\1004\1004\obj\Debug\netcoreapp3.1\1004.genruntimeconfig.cache
