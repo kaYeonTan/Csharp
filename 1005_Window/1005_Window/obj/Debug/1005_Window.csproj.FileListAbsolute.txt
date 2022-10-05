@@ -1,0 +1,8 @@
+C:\Users\수완\Documents\GitHub\Csharp\1005_Window\1005_Window\obj\Debug\1005_Window.csproj.AssemblyReference.cache
+C:\Users\수완\Documents\GitHub\Csharp\1005_Window\1005_Window\obj\Debug\_1005_Window.Properties.Resources.resources
+C:\Users\수완\Documents\GitHub\Csharp\1005_Window\1005_Window\obj\Debug\1005_Window.csproj.GenerateResource.cache
+C:\Users\수완\Documents\GitHub\Csharp\1005_Window\1005_Window\obj\Debug\1005_Window.csproj.CoreCompileInputs.cache
+C:\Users\수완\Documents\GitHub\Csharp\1005_Window\1005_Window\bin\Debug\1005_Window.exe
+C:\Users\수완\Documents\GitHub\Csharp\1005_Window\1005_Window\bin\Debug\1005_Window.pdb
+C:\Users\수완\Documents\GitHub\Csharp\1005_Window\1005_Window\obj\Debug\1005_Window.exe
+C:\Users\수완\Documents\GitHub\Csharp\1005_Window\1005_Window\obj\Debug\1005_Window.pdb
