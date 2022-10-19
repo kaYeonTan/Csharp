@@ -1,0 +1,8 @@
+C:\Users\수완\Documents\GitHub\Csharp\1019_CS\1019_CS\bin\Debug\1019_CS.exe
+C:\Users\수완\Documents\GitHub\Csharp\1019_CS\1019_CS\bin\Debug\1019_CS.pdb
+C:\Users\수완\Documents\GitHub\Csharp\1019_CS\1019_CS\obj\Debug\1019_CS.csproj.AssemblyReference.cache
+C:\Users\수완\Documents\GitHub\Csharp\1019_CS\1019_CS\obj\Debug\_1019_CS.Properties.Resources.resources
+C:\Users\수완\Documents\GitHub\Csharp\1019_CS\1019_CS\obj\Debug\1019_CS.csproj.GenerateResource.cache
+C:\Users\수완\Documents\GitHub\Csharp\1019_CS\1019_CS\obj\Debug\1019_CS.csproj.CoreCompileInputs.cache
+C:\Users\수완\Documents\GitHub\Csharp\1019_CS\1019_CS\obj\Debug\1019_CS.exe
+C:\Users\수완\Documents\GitHub\Csharp\1019_CS\1019_CS\obj\Debug\1019_CS.pdb
