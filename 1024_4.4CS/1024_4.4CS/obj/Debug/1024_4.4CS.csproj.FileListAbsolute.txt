@@ -1,0 +1,8 @@
+C:\Users\수완\Documents\GitHub\Csharp\1024_4.4CS\1024_4.4CS\bin\Debug\1024_4.4CS.exe
+C:\Users\수완\Documents\GitHub\Csharp\1024_4.4CS\1024_4.4CS\bin\Debug\1024_4.4CS.pdb
+C:\Users\수완\Documents\GitHub\Csharp\1024_4.4CS\1024_4.4CS\obj\Debug\1024_4.4CS.csproj.AssemblyReference.cache
+C:\Users\수완\Documents\GitHub\Csharp\1024_4.4CS\1024_4.4CS\obj\Debug\_1024_4._4CS.Properties.Resources.resources
+C:\Users\수완\Documents\GitHub\Csharp\1024_4.4CS\1024_4.4CS\obj\Debug\1024_4.4CS.csproj.GenerateResource.cache
+C:\Users\수완\Documents\GitHub\Csharp\1024_4.4CS\1024_4.4CS\obj\Debug\1024_4.4CS.csproj.CoreCompileInputs.cache
+C:\Users\수완\Documents\GitHub\Csharp\1024_4.4CS\1024_4.4CS\obj\Debug\1024_4.4CS.exe
+C:\Users\수완\Documents\GitHub\Csharp\1024_4.4CS\1024_4.4CS\obj\Debug\1024_4.4CS.pdb
