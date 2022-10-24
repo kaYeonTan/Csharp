@@ -1,0 +1,8 @@
+C:\Users\수완\Documents\GitHub\Csharp\4.5_test1025\4.5_test1025\obj\Debug\4.5_test1025.csproj.AssemblyReference.cache
+C:\Users\수완\Documents\GitHub\Csharp\4.5_test1025\4.5_test1025\obj\Debug\_4._5_test1025.Properties.Resources.resources
+C:\Users\수완\Documents\GitHub\Csharp\4.5_test1025\4.5_test1025\obj\Debug\4.5_test1025.csproj.GenerateResource.cache
+C:\Users\수완\Documents\GitHub\Csharp\4.5_test1025\4.5_test1025\obj\Debug\4.5_test1025.csproj.CoreCompileInputs.cache
+C:\Users\수완\Documents\GitHub\Csharp\4.5_test1025\4.5_test1025\bin\Debug\4.5_test1025.exe
+C:\Users\수완\Documents\GitHub\Csharp\4.5_test1025\4.5_test1025\bin\Debug\4.5_test1025.pdb
+C:\Users\수완\Documents\GitHub\Csharp\4.5_test1025\4.5_test1025\obj\Debug\4.5_test1025.exe
+C:\Users\수완\Documents\GitHub\Csharp\4.5_test1025\4.5_test1025\obj\Debug\4.5_test1025.pdb
