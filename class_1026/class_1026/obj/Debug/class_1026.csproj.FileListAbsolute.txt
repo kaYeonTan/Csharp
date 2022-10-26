@@ -1,0 +1,8 @@
+C:\Users\수완\Documents\GitHub\Csharp\class_1026\class_1026\bin\Debug\class_1026.exe
+C:\Users\수완\Documents\GitHub\Csharp\class_1026\class_1026\bin\Debug\class_1026.pdb
+C:\Users\수완\Documents\GitHub\Csharp\class_1026\class_1026\obj\Debug\class_1026.csproj.AssemblyReference.cache
+C:\Users\수완\Documents\GitHub\Csharp\class_1026\class_1026\obj\Debug\class_1026.Properties.Resources.resources
+C:\Users\수완\Documents\GitHub\Csharp\class_1026\class_1026\obj\Debug\class_1026.csproj.GenerateResource.cache
+C:\Users\수완\Documents\GitHub\Csharp\class_1026\class_1026\obj\Debug\class_1026.csproj.CoreCompileInputs.cache
+C:\Users\수완\Documents\GitHub\Csharp\class_1026\class_1026\obj\Debug\class_1026.exe
+C:\Users\수완\Documents\GitHub\Csharp\class_1026\class_1026\obj\Debug\class_1026.pdb
