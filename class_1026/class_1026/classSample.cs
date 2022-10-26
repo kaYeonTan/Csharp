@@ -1,4 +1,4 @@
-﻿using System.Windows.Forms;
+﻿/*using System.Windows.Forms;
 using System.Drawing;
 
 class Car
@@ -43,4 +43,4 @@ class Sample1
         Application.Run(fm);
     }
 }
-
+*/
