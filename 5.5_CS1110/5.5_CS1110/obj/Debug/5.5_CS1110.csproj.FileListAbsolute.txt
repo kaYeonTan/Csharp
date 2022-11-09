@@ -1,0 +1,8 @@
+C:\Users\수완\Documents\GitHub\Csharp\5.5_CS1110\5.5_CS1110\bin\Debug\5.5_CS1110.exe
+C:\Users\수완\Documents\GitHub\Csharp\5.5_CS1110\5.5_CS1110\bin\Debug\5.5_CS1110.pdb
+C:\Users\수완\Documents\GitHub\Csharp\5.5_CS1110\5.5_CS1110\obj\Debug\5.5_CS1110.csproj.AssemblyReference.cache
+C:\Users\수완\Documents\GitHub\Csharp\5.5_CS1110\5.5_CS1110\obj\Debug\_5._5_CS1110.Properties.Resources.resources
+C:\Users\수완\Documents\GitHub\Csharp\5.5_CS1110\5.5_CS1110\obj\Debug\5.5_CS1110.csproj.GenerateResource.cache
+C:\Users\수완\Documents\GitHub\Csharp\5.5_CS1110\5.5_CS1110\obj\Debug\5.5_CS1110.csproj.CoreCompileInputs.cache
+C:\Users\수완\Documents\GitHub\Csharp\5.5_CS1110\5.5_CS1110\obj\Debug\5.5_CS1110.exe
+C:\Users\수완\Documents\GitHub\Csharp\5.5_CS1110\5.5_CS1110\obj\Debug\5.5_CS1110.pdb
